@@ -59,9 +59,9 @@ implementation.
 
 ```
 ┌────────────┐                 ┌──────────────┐                 ┌───────────┐
-│   Steps    │                 │     Step     │                 │           │
-│ in Gherkin ├──matched with──>│ Definitions  ├───manipulates──>│  System   │
-│            │                 │              │                 │           │
+│   Steps   │                 │     Step     │                 │           │
+│in Gherkin ├──matched with──>│ Definitions  ├───manipulates──>│  System   │
+│           │                 │              │                 │           │
 └────────────┘                 └──────────────┘                 └───────────┘
 ```
 
